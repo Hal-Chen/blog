@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,a4 as t}from"./chunks/framework.ClEHkwpW.js";const m=JSON.parse('{"title":"链接","description":"","frontmatter":{},"headers":[],"relativePath":"links/index.md","filePath":"links/index.md"}'),l={name:"links/index.md"},o=t("",7),n=[o];function i(h,s,c,d,_,f){return a(),r("div",null,n)}const u=e(l,[["render",i]]);export{m as __pageData,u as default};

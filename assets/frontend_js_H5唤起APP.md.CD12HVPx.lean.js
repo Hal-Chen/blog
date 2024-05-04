@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.ClEHkwpW.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"frontend/js/H5唤起APP.md","filePath":"frontend/js/H5唤起APP.md"}'),r={name:"frontend/js/H5唤起APP.md"};function a(o,s,c,d,_,f){return n(),t("div")}const P=e(r,[["render",a]]);export{i as __pageData,P as default};
