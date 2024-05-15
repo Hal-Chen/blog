@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a4 as p}from"./chunks/framework.ClEHkwpW.js";const f=JSON.parse('{"title":"关于我","description":"","frontmatter":{},"headers":[],"relativePath":"me/index.md","filePath":"me/index.md"}'),a={name:"me/index.md"},n=p("",12),s=[n];function _(c,i,r,d,l,m){return o(),t("div",null,s)}const u=e(a,[["render",_]]);export{f as __pageData,u as default};
